@@ -18,6 +18,5 @@ class PredizerPriceHouse(serializers.ModelSerializer):
             "city",
             "state",
             "zip_code",
-            "house_size",
-            "sold_date"
+            "house_size"
         )
